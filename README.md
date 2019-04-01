@@ -1,7 +1,7 @@
 # Lab-3-Geographical-visualization-in-immersive-reality
 
 ## Geographical visualization at the top of Vancouver
-<img width="1440" alt="Screen Shot 2019-04-01 at 4 11 59 AM" src="https://user-images.githubusercontent.com/46465672/55325856-16924880-543b-11e9-9655-2860e1546d7e.png">
+<img width="1133" alt="Screen Shot 2019-04-01 at 5 38 48 AM" src="https://user-images.githubusercontent.com/46465672/55328111-763f2280-5440-11e9-9c2d-05e0ce1fdd40.png">
 
 ## Reflective analysis
 This 3D map highlights the famous location of Vancouver. To provide 3D immersive visualization, I used Xcode and Unity. To produce this map, I found the useful data from Mapbox and added the access token into Unity. That I can get the basemap for my assignment. Moreover, I added the city data by change latitude and longtitude. Besides, in order to show the buildings more accurate by change the mapbox style, topographical trend, building materials and other attributes features in the Hierarchy function to open the Inspector to see and edit the settings.
